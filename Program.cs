@@ -14,7 +14,7 @@ namespace EboBotTelega
 {
     public class Program
     {
-        public static string token = "6618638215:AAFGU71BrfQVIfMg9upbas5hXnaKH05u_1Y";
+        public static string token = "";
 
         public static int lenghtGirls = 42;
 
